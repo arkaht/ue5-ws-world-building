@@ -10,10 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "Metasound",
-			"Enabled": true
 		}
 	]
 }
