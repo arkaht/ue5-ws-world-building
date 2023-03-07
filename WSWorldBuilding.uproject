@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "{D2A10544-4DB9-9AFB-A73E-BC80F77B7C7A}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -17,6 +17,10 @@
 		},
 		{
 			"Name": "NiagaraFluids",
+			"Enabled": true
+		},
+		{
+			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]
